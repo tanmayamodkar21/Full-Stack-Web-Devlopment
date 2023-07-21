@@ -1,0 +1,5 @@
+Notes
+
+--We can change the order of orderd list <ol> tag by giving (start"" ) attribute
+
+-- self closing tags are aka as Void as element
